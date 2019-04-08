@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="BANKING">
+  <tag>AVVIO APPLICAZIONE</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1500820401361</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="BANKING">
+  <tag>Cambio intervallo date2017-06-23 -- 2017-07-23</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1500820402274</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="BANKING">
+  <tag>Revoca transazione</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1500820402310</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="BANKING">
+  <tag>Cambio intervallo date 2017-06-23 -- 2017-07-25</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1500820410547</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="BANKING">
+  <tag>Cambio intervallo date 2017-05-01 -- 2017-07-25</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1500820415321</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="BANKING">
+  <tag>Cambio intervallo date 2017-05-01 -- 2017-07-24</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1500820422281</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="BANKING">
+  <tag>Invio denaro</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1500820487546</timestamp>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento nomeApp="BANKING">
+  <tag>Revoca</tag>
+  <clientIP>0.0.0.0</clientIP>
+  <timestamp>1500820491523</timestamp>
+</Evento>
+

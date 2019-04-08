@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configurazione>
+    <portaServerLog>8080</portaServerLog>
+    <indirizzoServerLog>localhost</indirizzoServerLog>
+    <indirizzoClient>111.111.111.111</indirizzoClient>
+    <hostnameDatabase>localhost</hostnameDatabase>
+    <portaDatabase>3306</portaDatabase>
+    <utenteDatabase>root</utenteDatabase>
+    <passwordDatabase></passwordDatabase>
+    <utenteAccesso>aaa@aaa.com</utenteAccesso>
+    <passwordAccesso>aaa</passwordAccesso>
+    <modalitaGrafico>2</modalitaGrafico>
+    <intervalloGrafico>3</intervalloGrafico>
+</Configurazione>

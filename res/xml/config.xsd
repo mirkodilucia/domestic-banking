@@ -1,0 +1,19 @@
+<schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns="http://www.w3.org/2001/XMLSchema">
+    <element name="Configurazione">
+        <complexType>
+            <sequence>
+                <element type="short" name="portaServerLog"/>
+                <element type="string" name="indirizzoServerLog"/>
+                <element type="string" name="indirizzoClient"/>
+                <element type="string" name="hostnameDatabase"/>
+                <element type="short" name="portaDatabase"/>
+                <element type="string" name="utenteDatabase"/>
+                <element type="string" name="passwordDatabase"/>
+                <element type="string" name="utenteAccesso"/>
+                <element type="string" name="passwordAccesso"/>
+                <element type="short" name="modalitaGrafico"/>
+                <element type="short" name="intervalloGrafico"/>
+            </sequence>
+        </complexType>
+    </element>
+</schema>
